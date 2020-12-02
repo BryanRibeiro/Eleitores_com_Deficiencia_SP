@@ -1,3 +1,3 @@
-## Eleitores_com_Deficiencia_SP
+## Análise de Eleitores com Deficiência em São Paulo - SP
 
-Dupla:
+Dupla: Bryan Romero Ribeiro, Raphael Lisboa do Prado
