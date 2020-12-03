@@ -10,7 +10,6 @@ Análise de Dados Estatísticos baseado nas eleições de 2020.
 
 Estudo baseado nos Eleitores com Deficiência de São Paulo.
 
-
 ## Obtenção dos Dados
 
 > **Dados retirados do site:** https://www.tse.jus.br/hotsites/pesquisas-eleitorais/eleitorado_anos/2020.html
