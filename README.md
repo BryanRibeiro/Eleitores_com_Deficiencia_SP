@@ -7,7 +7,9 @@
 <br>
 
 Análise de Dados Estatísticos baseado nas eleições de 2020.
+
 Estudo baseado nos Eleitores com Deficiência de São Paulo.
+
 
 ## Obtenção dos Dados
 
