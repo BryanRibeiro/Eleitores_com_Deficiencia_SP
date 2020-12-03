@@ -13,4 +13,4 @@ Estudo baseado nos Eleitores com Deficiência de São Paulo.
 
 ## Obtenção dos Dados
 
-> https://www.tse.jus.br/hotsites/pesquisas-eleitorais/eleitorado_anos/2020.html
+> **Dados retirados do site:** https://www.tse.jus.br/hotsites/pesquisas-eleitorais/eleitorado_anos/2020.html
